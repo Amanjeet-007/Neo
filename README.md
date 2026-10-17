@@ -72,3 +72,4 @@ Colors are variables at the top of `app/globals.css`. Light and dark follow the 
 ## Deploy
 
 Push to GitHub, import into Vercel, and add the variables from `.env.example`.
+a
